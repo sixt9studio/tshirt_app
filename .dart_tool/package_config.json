@@ -14,6 +14,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "back_button_interceptor",
+      "rootUri": "file:///C:/flutter_windows_3.0.2-stable/flutter/.pub-cache/hosted/pub.dartlang.org/back_button_interceptor-6.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
       "name": "boolean_selector",
       "rootUri": "file:///C:/flutter_windows_3.0.2-stable/flutter/.pub-cache/hosted/pub.dartlang.org/boolean_selector-2.1.0",
       "packageUri": "lib/",
@@ -80,8 +86,50 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "firebase_auth",
+      "rootUri": "file:///C:/flutter_windows_3.0.2-stable/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-3.4.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "firebase_auth_platform_interface",
+      "rootUri": "file:///C:/flutter_windows_3.0.2-stable/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth_platform_interface-6.3.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "firebase_auth_web",
+      "rootUri": "file:///C:/flutter_windows_3.0.2-stable/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth_web-4.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "firebase_core",
+      "rootUri": "file:///C:/flutter_windows_3.0.2-stable/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.19.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "firebase_core_platform_interface",
+      "rootUri": "file:///C:/flutter_windows_3.0.2-stable/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_platform_interface-4.4.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
+      "name": "firebase_core_web",
+      "rootUri": "file:///C:/flutter_windows_3.0.2-stable/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-1.7.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
       "name": "flutter",
       "rootUri": "file:///C:/flutter_windows_3.0.2-stable/flutter/packages/flutter",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_colorpicker",
+      "rootUri": "file:///C:/flutter_windows_3.0.2-stable/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_colorpicker-1.0.3",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -93,7 +141,7 @@
     },
     {
       "name": "flutter_plugin_android_lifecycle",
-      "rootUri": "file:///C:/flutter_windows_3.0.2-stable/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.6",
+      "rootUri": "file:///C:/flutter_windows_3.0.2-stable/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.7",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -116,8 +164,44 @@
       "languageVersion": "2.17"
     },
     {
+      "name": "fluttertoast",
+      "rootUri": "file:///C:/flutter_windows_3.0.2-stable/flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-8.0.9",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "font_awesome_flutter",
       "rootUri": "file:///C:/flutter_windows_3.0.2-stable/flutter/.pub-cache/hosted/pub.dartlang.org/font_awesome_flutter-9.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "google_sign_in",
+      "rootUri": "file:///C:/flutter_windows_3.0.2-stable/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in-5.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "google_sign_in_android",
+      "rootUri": "file:///C:/flutter_windows_3.0.2-stable/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in_android-6.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "google_sign_in_ios",
+      "rootUri": "file:///C:/flutter_windows_3.0.2-stable/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in_ios-5.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "google_sign_in_platform_interface",
+      "rootUri": "file:///C:/flutter_windows_3.0.2-stable/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in_platform_interface-2.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "google_sign_in_web",
+      "rootUri": "file:///C:/flutter_windows_3.0.2-stable/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in_web-0.10.2",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -138,6 +222,12 @@
       "rootUri": "file:///C:/flutter_windows_3.0.2-stable/flutter/.pub-cache/hosted/pub.dartlang.org/image-3.2.0",
       "packageUri": "lib/",
       "languageVersion": "2.15"
+    },
+    {
+      "name": "image_gallery_saver",
+      "rootUri": "file:///C:/flutter_windows_3.0.2-stable/flutter/.pub-cache/hosted/pub.dartlang.org/image_gallery_saver-1.7.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
     },
     {
       "name": "image_picker",
@@ -170,6 +260,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "intl",
+      "rootUri": "file:///C:/flutter_windows_3.0.2-stable/flutter/.pub-cache/hosted/pub.dartlang.org/intl-0.17.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "js",
       "rootUri": "file:///C:/flutter_windows_3.0.2-stable/flutter/.pub-cache/hosted/pub.dartlang.org/js-0.6.4",
       "packageUri": "lib/",
@@ -180,6 +276,12 @@
       "rootUri": "file:///C:/flutter_windows_3.0.2-stable/flutter/.pub-cache/hosted/pub.dartlang.org/lints-2.0.0",
       "packageUri": "lib/",
       "languageVersion": "2.17"
+    },
+    {
+      "name": "loader_overlay",
+      "rootUri": "file:///C:/flutter_windows_3.0.2-stable/flutter/.pub-cache/hosted/pub.dartlang.org/loader_overlay-2.0.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
     },
     {
       "name": "matcher",
@@ -278,6 +380,66 @@
       "languageVersion": "2.14"
     },
     {
+      "name": "quiver",
+      "rootUri": "file:///C:/flutter_windows_3.0.2-stable/flutter/.pub-cache/hosted/pub.dartlang.org/quiver-3.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "screenshot",
+      "rootUri": "file:///C:/flutter_windows_3.0.2-stable/flutter/.pub-cache/hosted/pub.dartlang.org/screenshot-1.2.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "shared_preferences",
+      "rootUri": "file:///C:/flutter_windows_3.0.2-stable/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-2.0.15",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "shared_preferences_android",
+      "rootUri": "file:///C:/flutter_windows_3.0.2-stable/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_android-2.0.12",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "shared_preferences_ios",
+      "rootUri": "file:///C:/flutter_windows_3.0.2-stable/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_ios-2.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "shared_preferences_linux",
+      "rootUri": "file:///C:/flutter_windows_3.0.2-stable/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_linux-2.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "shared_preferences_macos",
+      "rootUri": "file:///C:/flutter_windows_3.0.2-stable/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_macos-2.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "shared_preferences_platform_interface",
+      "rootUri": "file:///C:/flutter_windows_3.0.2-stable/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_platform_interface-2.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "shared_preferences_web",
+      "rootUri": "file:///C:/flutter_windows_3.0.2-stable/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_web-2.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "shared_preferences_windows",
+      "rootUri": "file:///C:/flutter_windows_3.0.2-stable/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_windows-2.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "sky_engine",
       "rootUri": "file:///C:/flutter_windows_3.0.2-stable/flutter/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
@@ -304,6 +466,18 @@
     {
       "name": "string_scanner",
       "rootUri": "file:///C:/flutter_windows_3.0.2-stable/flutter/.pub-cache/hosted/pub.dartlang.org/string_scanner-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "syncfusion_flutter_core",
+      "rootUri": "file:///C:/flutter_windows_3.0.2-stable/flutter/.pub-cache/hosted/pub.dartlang.org/syncfusion_flutter_core-20.2.38",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "syncfusion_flutter_signaturepad",
+      "rootUri": "file:///C:/flutter_windows_3.0.2-stable/flutter/.pub-cache/hosted/pub.dartlang.org/syncfusion_flutter_signaturepad-20.2.36",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -356,7 +530,7 @@
       "languageVersion": "2.17"
     }
   ],
-  "generated": "2022-07-05T09:58:36.835875Z",
+  "generated": "2022-07-26T09:59:20.137742Z",
   "generator": "pub",
   "generatorVersion": "2.17.5"
 }

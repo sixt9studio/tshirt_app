@@ -3,6 +3,7 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:tshirt_app/Login.dart';
 
+import 'MyOrder.dart';
 import 'Splash_2.dart';
 import 'main.dart';
 
@@ -93,8 +94,11 @@ class _SplashScreenState extends State<SplashScreen> with SingleTickerProviderSt
     super.initState();
     _controller.forward();
     Timer(const Duration(seconds: 3), (){
+      dispose();
       Navigator.pushReplacement(context, MaterialPageRoute(builder: (context)=>
-          const Splash2()));
+          const  Splash2()));
+// Splash2()
+
     });
 
   }
